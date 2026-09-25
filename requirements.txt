@@ -1,0 +1,6 @@
+customtkinter
+Pillow
+numpy
+matplotlib
+opencv-python
+scikit-learn
